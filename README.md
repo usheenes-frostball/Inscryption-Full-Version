@@ -277,3 +277,6 @@ This repository serves as the official landing page for Inscryption. The softwar
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Inscryption today!**
+
+---
+**Last updated:** 2026-09-11 20:51:23 UTC
