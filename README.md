@@ -279,4 +279,4 @@ This repository serves as the official landing page for Inscryption. The softwar
 **Get the most recent version of Inscryption today!**
 
 ---
-**Last updated:** 2026-10-17 09:09:06 UTC
+**Last updated:** 2026-10-17 13:34:51 UTC
